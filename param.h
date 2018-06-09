@@ -1,4 +1,3 @@
-
 #define F_X(X) pow((X),2)-10
 #define G_Y(Y) 1/(1+abs(Y))
 
